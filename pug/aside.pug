@@ -1,0 +1,8 @@
+- var a = ['a','b','c','d'];
+- var test = {link1:{ nomeC: 'lucas', data: '20191109', hash: 'hashblabla'}};
+nav
+  ul
+    - var nLinks = 4;
+    - for (var i = 0; i < nLinks; i++)
+      li
+        a(href=`${test.link1.nomeC}`)
