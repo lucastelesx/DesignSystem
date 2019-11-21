@@ -1,1 +1,1900 @@
-.test{color:red}
+.red-100 {
+  background-color: #ffcbb8; }
+  .red-100::before {
+    content: "#ffcbb8";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.red-900 {
+  background-color: #471400; }
+  .red-900::before {
+    content: "#471400";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.red-200 {
+  background-color: #ffaa8a; }
+  .red-200::before {
+    content: "#ffaa8a";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.red-800 {
+  background-color: #752000; }
+  .red-800::before {
+    content: "#752000";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.red-300 {
+  background-color: #ff895c; }
+  .red-300::before {
+    content: "#ff895c";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.red-700 {
+  background-color: #a32d00; }
+  .red-700::before {
+    content: "#a32d00";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.red-400 {
+  background-color: #ff672e; }
+  .red-400::before {
+    content: "#ff672e";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.red-600 {
+  background-color: #d13900; }
+  .red-600::before {
+    content: "#d13900";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.red-50 {
+  background-color: #ffd5c5; }
+  .red-50::before {
+    content: "#ffd5c5";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.red-500 {
+  background-color: #FF4600; }
+  .red-500::before {
+    content: "#FF4600";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-100 {
+  background-color: #f9c5d7; }
+  .pink-100::before {
+    content: "#f9c5d7";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-900 {
+  background-color: #48071d; }
+  .pink-900::before {
+    content: "#48071d";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-200 {
+  background-color: #f59bba; }
+  .pink-200::before {
+    content: "#f59bba";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-800 {
+  background-color: #720b2e; }
+  .pink-800::before {
+    content: "#720b2e";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-300 {
+  background-color: #f1729d; }
+  .pink-300::before {
+    content: "#f1729d";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-700 {
+  background-color: #9c0f3f; }
+  .pink-700::before {
+    content: "#9c0f3f";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-400 {
+  background-color: #ed4880; }
+  .pink-400::before {
+    content: "#ed4880";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-600 {
+  background-color: #c61350; }
+  .pink-600::before {
+    content: "#c61350";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-50 {
+  background-color: #fbd2e0; }
+  .pink-50::before {
+    content: "#fbd2e0";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.pink-500 {
+  background-color: #E91E63; }
+  .pink-500::before {
+    content: "#E91E63";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-100 {
+  background-color: #e0a4eb; }
+  .purple-100::before {
+    content: "#e0a4eb";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-900 {
+  background-color: #17061a; }
+  .purple-900::before {
+    content: "#17061a";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-200 {
+  background-color: #d47ee2; }
+  .purple-200::before {
+    content: "#d47ee2";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-800 {
+  background-color: #380e3f; }
+  .purple-800::before {
+    content: "#380e3f";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-300 {
+  background-color: #c759da; }
+  .purple-300::before {
+    content: "#c759da";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-700 {
+  background-color: #591665; }
+  .purple-700::before {
+    content: "#591665";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-400 {
+  background-color: #bb33d2; }
+  .purple-400::before {
+    content: "#bb33d2";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-600 {
+  background-color: #7b1f8a; }
+  .purple-600::before {
+    content: "#7b1f8a";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-50 {
+  background-color: #e4afed; }
+  .purple-50::before {
+    content: "#e4afed";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.purple-500 {
+  background-color: #9C27B0; }
+  .purple-500::before {
+    content: "#9C27B0";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-100 {
+  background-color: #cebeea; }
+  .deep-purple-100::before {
+    content: "#cebeea";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-900 {
+  background-color: #190e2c; }
+  .deep-purple-900::before {
+    content: "#190e2c";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-200 {
+  background-color: #b49bdf; }
+  .deep-purple-200::before {
+    content: "#b49bdf";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-800 {
+  background-color: #2c194e; }
+  .deep-purple-800::before {
+    content: "#2c194e";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-300 {
+  background-color: #9a78d4; }
+  .deep-purple-300::before {
+    content: "#9a78d4";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-700 {
+  background-color: #402471; }
+  .deep-purple-700::before {
+    content: "#402471";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-400 {
+  background-color: #7f56c9; }
+  .deep-purple-400::before {
+    content: "#7f56c9";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-600 {
+  background-color: #532f94; }
+  .deep-purple-600::before {
+    content: "#532f94";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-50 {
+  background-color: #d6c9ee; }
+  .deep-purple-50::before {
+    content: "#d6c9ee";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-purple-500 {
+  background-color: #673AB7; }
+  .deep-purple-500::before {
+    content: "#673AB7";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-100 {
+  background-color: #c2c8ea; }
+  .indigo-100::before {
+    content: "#c2c8ea";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-900 {
+  background-color: #10142d; }
+  .indigo-900::before {
+    content: "#10142d";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-200 {
+  background-color: #a0a9de; }
+  .indigo-200::before {
+    content: "#a0a9de";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-800 {
+  background-color: #1b234f; }
+  .indigo-800::before {
+    content: "#1b234f";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-300 {
+  background-color: #7e8bd2; }
+  .indigo-300::before {
+    content: "#7e8bd2";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-700 {
+  background-color: #273371; }
+  .indigo-700::before {
+    content: "#273371";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-400 {
+  background-color: #5c6cc6; }
+  .indigo-400::before {
+    content: "#5c6cc6";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-600 {
+  background-color: #334293; }
+  .indigo-600::before {
+    content: "#334293";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-50 {
+  background-color: #ccd1ed; }
+  .indigo-50::before {
+    content: "#ccd1ed";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.indigo-500 {
+  background-color: #3F51B5; }
+  .indigo-500::before {
+    content: "#3F51B5";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-100 {
+  background-color: #cfe8fc; }
+  .blue-100::before {
+    content: "#cfe8fc";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-900 {
+  background-color: #053358; }
+  .blue-900::before {
+    content: "#053358";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-200 {
+  background-color: #a4d4fa; }
+  .blue-200::before {
+    content: "#a4d4fa";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-800 {
+  background-color: #074c83; }
+  .blue-800::before {
+    content: "#074c83";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-300 {
+  background-color: #78bff8; }
+  .blue-300::before {
+    content: "#78bff8";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-700 {
+  background-color: #0966af; }
+  .blue-700::before {
+    content: "#0966af";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-400 {
+  background-color: #4dabf5; }
+  .blue-400::before {
+    content: "#4dabf5";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-600 {
+  background-color: #0c7fda; }
+  .blue-600::before {
+    content: "#0c7fda";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-50 {
+  background-color: #dceffd; }
+  .blue-50::before {
+    content: "#dceffd";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-500 {
+  background-color: #2196F3; }
+  .blue-500::before {
+    content: "#2196F3";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-100 {
+  background-color: #b1e6fe; }
+  .light-blue-100::before {
+    content: "#b1e6fe";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-900 {
+  background-color: #012b3f; }
+  .light-blue-900::before {
+    content: "#012b3f";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-200 {
+  background-color: #83d7fd; }
+  .light-blue-200::before {
+    content: "#83d7fd";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-800 {
+  background-color: #014b6c; }
+  .light-blue-800::before {
+    content: "#014b6c";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-300 {
+  background-color: #56c9fd; }
+  .light-blue-300::before {
+    content: "#56c9fd";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-700 {
+  background-color: #026a99; }
+  .light-blue-700::before {
+    content: "#026a99";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-400 {
+  background-color: #29bafc; }
+  .light-blue-400::before {
+    content: "#29bafc";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-600 {
+  background-color: #028ac7; }
+  .light-blue-600::before {
+    content: "#028ac7";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-50 {
+  background-color: #beeafe; }
+  .light-blue-50::before {
+    content: "#beeafe";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-blue-500 {
+  background-color: #03A9F4; }
+  .light-blue-500::before {
+    content: "#03A9F4";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-100 {
+  background-color: #8df2ff; }
+  .cyan-100::before {
+    content: "#8df2ff";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-900 {
+  background-color: #00191c; }
+  .cyan-900::before {
+    content: "#00191c";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-200 {
+  background-color: #5fedff; }
+  .cyan-200::before {
+    content: "#5fedff";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-800 {
+  background-color: #00424a; }
+  .cyan-800::before {
+    content: "#00424a";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-300 {
+  background-color: #31e8ff; }
+  .cyan-300::before {
+    content: "#31e8ff";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-700 {
+  background-color: #006b78; }
+  .cyan-700::before {
+    content: "#006b78";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-400 {
+  background-color: #03e2ff; }
+  .cyan-400::before {
+    content: "#03e2ff";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-600 {
+  background-color: #0093a6; }
+  .cyan-600::before {
+    content: "#0093a6";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-50 {
+  background-color: #9af4ff; }
+  .cyan-50::before {
+    content: "#9af4ff";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.cyan-500 {
+  background-color: #00BCD4; }
+  .cyan-500::before {
+    content: "#00BCD4";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-100 {
+  background-color: #4fffef; }
+  .teal-100::before {
+    content: "#4fffef";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-900 {
+  background-color: black; }
+  .teal-900::before {
+    content: "black";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-200 {
+  background-color: #21ffea; }
+  .teal-200::before {
+    content: "#21ffea";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-800 {
+  background-color: #000c0b; }
+  .teal-800::before {
+    content: "#000c0b";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-300 {
+  background-color: #00f2db; }
+  .teal-300::before {
+    content: "#00f2db";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-700 {
+  background-color: #003a35; }
+  .teal-700::before {
+    content: "#003a35";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-400 {
+  background-color: #00c4b2; }
+  .teal-400::before {
+    content: "#00c4b2";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-600 {
+  background-color: #00685e; }
+  .teal-600::before {
+    content: "#00685e";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-50 {
+  background-color: #5cfff0; }
+  .teal-50::before {
+    content: "#5cfff0";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.teal-500 {
+  background-color: #009688; }
+  .teal-500::before {
+    content: "#009688";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-100 {
+  background-color: #cae8cc; }
+  .green-100::before {
+    content: "#cae8cc";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-900 {
+  background-color: #142f15; }
+  .green-900::before {
+    content: "#142f15";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-200 {
+  background-color: #aadaac; }
+  .green-200::before {
+    content: "#aadaac";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-800 {
+  background-color: #224f24; }
+  .green-800::before {
+    content: "#224f24";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-300 {
+  background-color: #8acc8d; }
+  .green-300::before {
+    content: "#8acc8d";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-700 {
+  background-color: #306f33; }
+  .green-700::before {
+    content: "#306f33";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-400 {
+  background-color: #6abe6e; }
+  .green-400::before {
+    content: "#6abe6e";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-600 {
+  background-color: #3e8f41; }
+  .green-600::before {
+    content: "#3e8f41";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-50 {
+  background-color: #d4ecd5; }
+  .green-50::before {
+    content: "#d4ecd5";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.green-500 {
+  background-color: #4CAF50; }
+  .green-500::before {
+    content: "#4CAF50";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-100 {
+  background-color: #e3f1d4; }
+  .light-green-100::before {
+    content: "#e3f1d4";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-900 {
+  background-color: #2c4015; }
+  .light-green-900::before {
+    content: "#2c4015";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-200 {
+  background-color: #cde5b1; }
+  .light-green-200::before {
+    content: "#cde5b1";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-800 {
+  background-color: #446321; }
+  .light-green-800::before {
+    content: "#446321";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-300 {
+  background-color: #b7da8f; }
+  .light-green-300::before {
+    content: "#b7da8f";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-700 {
+  background-color: #5c852c; }
+  .light-green-700::before {
+    content: "#5c852c";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-400 {
+  background-color: #a1ce6c; }
+  .light-green-400::before {
+    content: "#a1ce6c";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-600 {
+  background-color: #74a838; }
+  .light-green-600::before {
+    content: "#74a838";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-50 {
+  background-color: #eaf4de; }
+  .light-green-50::before {
+    content: "#eaf4de";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.light-green-500 {
+  background-color: #8BC34A; }
+  .light-green-500::before {
+    content: "#8BC34A";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-100 {
+  background-color: #f4f8d5; }
+  .lime-100::before {
+    content: "#f4f8d5";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-900 {
+  background-color: #494f0e; }
+  .lime-900::before {
+    content: "#494f0e";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-200 {
+  background-color: #ebf1ae; }
+  .lime-200::before {
+    content: "#ebf1ae";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-800 {
+  background-color: #6d7615; }
+  .lime-800::before {
+    content: "#6d7615";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-300 {
+  background-color: #e1ea87; }
+  .lime-300::before {
+    content: "#e1ea87";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-700 {
+  background-color: #919d1c; }
+  .lime-700::before {
+    content: "#919d1c";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-400 {
+  background-color: #d7e360; }
+  .lime-400::before {
+    content: "#d7e360";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-600 {
+  background-color: #b6c423; }
+  .lime-600::before {
+    content: "#b6c423";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-50 {
+  background-color: #f7fae1; }
+  .lime-50::before {
+    content: "#f7fae1";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.lime-500 {
+  background-color: #CDDC39; }
+  .lime-500::before {
+    content: "#CDDC39";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-100 {
+  background-color: #fffef3; }
+  .yellow-100::before {
+    content: "#fffef3";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-900 {
+  background-color: #827500; }
+  .yellow-900::before {
+    content: "#827500";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-200 {
+  background-color: #fff9c5; }
+  .yellow-200::before {
+    content: "#fff9c5";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-800 {
+  background-color: #b09e00; }
+  .yellow-800::before {
+    content: "#b09e00";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-300 {
+  background-color: #fff497; }
+  .yellow-300::before {
+    content: "#fff497";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-700 {
+  background-color: #dec800; }
+  .yellow-700::before {
+    content: "#dec800";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-400 {
+  background-color: #fff069; }
+  .yellow-400::before {
+    content: "#fff069";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-600 {
+  background-color: #ffe60d; }
+  .yellow-600::before {
+    content: "#ffe60d";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-50 {
+  background-color: white; }
+  .yellow-50::before {
+    content: "white";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.yellow-500 {
+  background-color: #FFEB3B; }
+  .yellow-500::before {
+    content: "#FFEB3B";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-100 {
+  background-color: #ffefbf; }
+  .amber-100::before {
+    content: "#ffefbf";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-900 {
+  background-color: #4e3b00; }
+  .amber-900::before {
+    content: "#4e3b00";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-200 {
+  background-color: #ffe391; }
+  .amber-200::before {
+    content: "#ffe391";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-800 {
+  background-color: #7c5d00; }
+  .amber-800::before {
+    content: "#7c5d00";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-300 {
+  background-color: #ffd863; }
+  .amber-300::before {
+    content: "#ffd863";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-700 {
+  background-color: #aa8000; }
+  .amber-700::before {
+    content: "#aa8000";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-400 {
+  background-color: #ffcc35; }
+  .amber-400::before {
+    content: "#ffcc35";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-600 {
+  background-color: #d8a200; }
+  .amber-600::before {
+    content: "#d8a200";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-50 {
+  background-color: #fff2cc; }
+  .amber-50::before {
+    content: "#fff2cc";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.amber-500 {
+  background-color: #FFC107; }
+  .amber-500::before {
+    content: "#FFC107";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-100 {
+  background-color: #ffe2b8; }
+  .orange-100::before {
+    content: "#ffe2b8";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-900 {
+  background-color: #472b00; }
+  .orange-900::before {
+    content: "#472b00";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-200 {
+  background-color: #ffd08a; }
+  .orange-200::before {
+    content: "#ffd08a";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-800 {
+  background-color: #754600; }
+  .orange-800::before {
+    content: "#754600";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-300 {
+  background-color: #ffbd5c; }
+  .orange-300::before {
+    content: "#ffbd5c";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-700 {
+  background-color: #a36100; }
+  .orange-700::before {
+    content: "#a36100";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-400 {
+  background-color: #ffab2e; }
+  .orange-400::before {
+    content: "#ffab2e";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-600 {
+  background-color: #d17d00; }
+  .orange-600::before {
+    content: "#d17d00";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-50 {
+  background-color: #ffe8c5; }
+  .orange-50::before {
+    content: "#ffe8c5";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.orange-500 {
+  background-color: #FF9800; }
+  .orange-500::before {
+    content: "#FF9800";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-100 {
+  background-color: #ffe3da; }
+  .deep-orange-100::before {
+    content: "#ffe3da";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-900 {
+  background-color: #691900; }
+  .deep-orange-900::before {
+    content: "#691900";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-200 {
+  background-color: #ffc0ac; }
+  .deep-orange-200::before {
+    content: "#ffc0ac";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-800 {
+  background-color: #972400; }
+  .deep-orange-800::before {
+    content: "#972400";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-300 {
+  background-color: #ff9d7e; }
+  .deep-orange-300::before {
+    content: "#ff9d7e";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-700 {
+  background-color: #c52f00; }
+  .deep-orange-700::before {
+    content: "#c52f00";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-400 {
+  background-color: #ff7a50; }
+  .deep-orange-400::before {
+    content: "#ff7a50";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-600 {
+  background-color: #f33a00; }
+  .deep-orange-600::before {
+    content: "#f33a00";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-50 {
+  background-color: #ffede7; }
+  .deep-orange-50::before {
+    content: "#ffede7";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.deep-orange-500 {
+  background-color: #FF5722; }
+  .deep-orange-500::before {
+    content: "#FF5722";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-100 {
+  background-color: #cdb4ab; }
+  .brown-100::before {
+    content: "#cdb4ab";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-900 {
+  background-color: #060404; }
+  .brown-900::before {
+    content: "#060404";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-200 {
+  background-color: #bc9b8f; }
+  .brown-200::before {
+    content: "#bc9b8f";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-800 {
+  background-color: #231815; }
+  .brown-800::before {
+    content: "#231815";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-300 {
+  background-color: #ab8172; }
+  .brown-300::before {
+    content: "#ab8172";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-700 {
+  background-color: #3f2d26; }
+  .brown-700::before {
+    content: "#3f2d26";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-400 {
+  background-color: #966959; }
+  .brown-400::before {
+    content: "#966959";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-600 {
+  background-color: #5c4137; }
+  .brown-600::before {
+    content: "#5c4137";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-50 {
+  background-color: #d2bcb4; }
+  .brown-50::before {
+    content: "#d2bcb4";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.brown-500 {
+  background-color: #795548; }
+  .brown-500::before {
+    content: "#795548";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-100 {
+  background-color: #fafafa; }
+  .grey-100::before {
+    content: "#fafafa";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-900 {
+  background-color: #424242; }
+  .grey-900::before {
+    content: "#424242";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-200 {
+  background-color: #e3e3e3; }
+  .grey-200::before {
+    content: "#e3e3e3";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-800 {
+  background-color: #595959; }
+  .grey-800::before {
+    content: "#595959";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-300 {
+  background-color: #cccccc; }
+  .grey-300::before {
+    content: "#cccccc";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-700 {
+  background-color: #707070; }
+  .grey-700::before {
+    content: "#707070";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-400 {
+  background-color: #b5b5b5; }
+  .grey-400::before {
+    content: "#b5b5b5";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-600 {
+  background-color: #878787; }
+  .grey-600::before {
+    content: "#878787";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-50 {
+  background-color: white; }
+  .grey-50::before {
+    content: "white";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.grey-500 {
+  background-color: #9E9E9E; }
+  .grey-500::before {
+    content: "#9E9E9E";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-100 {
+  background-color: #c9d4da; }
+  .blue-grey-100::before {
+    content: "#c9d4da";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-900 {
+  background-color: #151b1e; }
+  .blue-grey-900::before {
+    content: "#151b1e";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-200 {
+  background-color: #aebfc7; }
+  .blue-grey-200::before {
+    content: "#aebfc7";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-800 {
+  background-color: #28343a; }
+  .blue-grey-800::before {
+    content: "#28343a";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-300 {
+  background-color: #93a9b4; }
+  .blue-grey-300::before {
+    content: "#93a9b4";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-700 {
+  background-color: #3a4c55; }
+  .blue-grey-700::before {
+    content: "#3a4c55";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-400 {
+  background-color: #7794a1; }
+  .blue-grey-400::before {
+    content: "#7794a1";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-600 {
+  background-color: #4d6570; }
+  .blue-grey-600::before {
+    content: "#4d6570";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-50 {
+  background-color: #d1dbdf; }
+  .blue-grey-50::before {
+    content: "#d1dbdf";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.blue-grey-500 {
+  background-color: #607D8B; }
+  .blue-grey-500::before {
+    content: "#607D8B";
+    font-family: monospace;
+    float: right;
+    text-transform: uppercase; }
+
+.container {
+  display: -webkit-box;
+  display: flex;
+  flex-wrap: wrap; }
+
+.swatches {
+  -webkit-box-flex: 1;
+          flex: auto;
+  margin: 20px; }
+
+.swatch-title {
+  padding: 12px;
+  margin-bottom: 5px;
+  text-transform: capitalize; }
+  .swatch-title h3 {
+    margin: 0 0 50px;
+    font-size: inherit; }
+
+.color-swatch:nth-child(n+7) {
+  color: #fff; }
+
+.color-swatch {
+  box-sizing: border-box;
+  min-width: 360px;
+  padding: 12px;
+  display: block;
+  font-weight: bold; }
+
+:root {
+  --c-primary:   #ff4600;
+  color: #ffffff00;
+  --c-secundary: #5f23a8; }
+
+.test {
+  color: red; }
+
+*, *::before, *::after {
+  box-sizing: border-box; }
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+/* Document
+   ========================================================================== */
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+html {
+  line-height: 1.15;
+  /* 1 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */ }
+
+/* Sections
+   ========================================================================== */
+/**
+ * Remove the margin in all browsers.
+ */
+body {
+  margin: 0; }
+
+/**
+ * Render the `main` element consistently in IE.
+ */
+main {
+  display: block; }
+
+/**
+ * Correct the font size and margin on `h1` elements within `section` and
+ * `article` contexts in Chrome, Firefox, and Safari.
+ */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+/* Grouping content
+   ========================================================================== */
+/**
+ * 1. Add the correct box sizing in Firefox.
+ * 2. Show the overflow in Edge and IE.
+ */
+hr {
+  box-sizing: content-box;
+  /* 1 */
+  height: 0;
+  /* 1 */
+  overflow: visible;
+  /* 2 */ }
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+pre {
+  font-family: monospace, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */ }
+
+/* Text-level semantics
+   ========================================================================== */
+/**
+ * Remove the gray background on active links in IE 10.
+ */
+a {
+  background-color: transparent; }
+
+/**
+ * 1. Remove the bottom border in Chrome 57-
+ * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
+ */
+abbr[title] {
+  border-bottom: none;
+  /* 1 */
+  text-decoration: underline;
+  /* 2 */
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
+  /* 2 */ }
+
+/**
+ * Add the correct font weight in Chrome, Edge, and Safari.
+ */
+b,
+strong {
+  font-weight: bolder; }
+
+/**
+ * 1. Correct the inheritance and scaling of font size in all browsers.
+ * 2. Correct the odd `em` font sizing in all browsers.
+ */
+code,
+kbd,
+samp {
+  font-family: monospace, monospace;
+  /* 1 */
+  font-size: 1em;
+  /* 2 */ }
+
+/**
+ * Add the correct font size in all browsers.
+ */
+small {
+  font-size: 80%; }
+
+/**
+ * Prevent `sub` and `sup` elements from affecting the line height in
+ * all browsers.
+ */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sub {
+  bottom: -0.25em; }
+
+sup {
+  top: -0.5em; }
+
+/* Embedded content
+   ========================================================================== */
+/**
+ * Remove the border on images inside links in IE 10.
+ */
+img {
+  border-style: none; }
+
+/* Forms
+   ========================================================================== */
+/**
+ * 1. Change the font styles in all browsers.
+ * 2. Remove the margin in Firefox and Safari.
+ */
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  /* 1 */
+  font-size: 100%;
+  /* 1 */
+  line-height: 1.15;
+  /* 1 */
+  margin: 0;
+  /* 2 */ }
+
+/**
+ * Show the overflow in IE.
+ * 1. Show the overflow in Edge.
+ */
+button,
+input {
+  /* 1 */
+  overflow: visible; }
+
+/**
+ * Remove the inheritance of text transform in Edge, Firefox, and IE.
+ * 1. Remove the inheritance of text transform in Firefox.
+ */
+button,
+select {
+  /* 1 */
+  text-transform: none; }
+
+/**
+ * Correct the inability to style clickable types in iOS and Safari.
+ */
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button; }
+
+/**
+ * Remove the inner border and padding in Firefox.
+ */
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0; }
+
+/**
+ * Restore the focus styles unset by the previous rule.
+ */
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+  outline: 1px dotted ButtonText; }
+
+/**
+ * Correct the padding in Firefox.
+ */
+fieldset {
+  padding: 0.35em 0.75em 0.625em; }
+
+/**
+ * 1. Correct the text wrapping in Edge and IE.
+ * 2. Correct the color inheritance from `fieldset` elements in IE.
+ * 3. Remove the padding so developers are not caught out when they zero out
+ *    `fieldset` elements in all browsers.
+ */
+legend {
+  box-sizing: border-box;
+  /* 1 */
+  color: inherit;
+  /* 2 */
+  display: table;
+  /* 1 */
+  max-width: 100%;
+  /* 1 */
+  padding: 0;
+  /* 3 */
+  white-space: normal;
+  /* 1 */ }
+
+/**
+ * Add the correct vertical alignment in Chrome, Firefox, and Opera.
+ */
+progress {
+  vertical-align: baseline; }
+
+/**
+ * Remove the default vertical scrollbar in IE 10+.
+ */
+textarea {
+  overflow: auto; }
+
+/**
+ * 1. Add the correct box sizing in IE 10.
+ * 2. Remove the padding in IE 10.
+ */
+[type="checkbox"],
+[type="radio"] {
+  box-sizing: border-box;
+  /* 1 */
+  padding: 0;
+  /* 2 */ }
+
+/**
+ * Correct the cursor style of increment and decrement buttons in Chrome.
+ */
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto; }
+
+/**
+ * 1. Correct the odd appearance in Chrome and Safari.
+ * 2. Correct the outline style in Safari.
+ */
+[type="search"] {
+  -webkit-appearance: textfield;
+  /* 1 */
+  outline-offset: -2px;
+  /* 2 */ }
+
+/**
+ * Remove the inner padding in Chrome and Safari on macOS.
+ */
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+/**
+ * 1. Correct the inability to style clickable types in iOS and Safari.
+ * 2. Change font properties to `inherit` in Safari.
+ */
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  /* 1 */
+  font: inherit;
+  /* 2 */ }
+
+/* Interactive
+   ========================================================================== */
+/*
+ * Add the correct display in Edge, IE 10+, and Firefox.
+ */
+details {
+  display: block; }
+
+/*
+ * Add the correct display in all browsers.
+ */
+summary {
+  display: list-item; }
+
+/* Misc
+   ========================================================================== */
+/**
+ * Add the correct display in IE 10+.
+ */
+template {
+  display: none; }
+
+/**
+ * Add the correct display in IE 10.
+ */
+[hidden] {
+  display: none; }
+
+html, body {
+  height: 100%; }
+
+body {
+  min-height: 100vh;
+  height: 100%; }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+a {
+  font-size: 110px;
+  padding: 10px; }
+
+.asidemenu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  min-width: 80px;
+  width: 60vw;
+  max-width: 500px;
+  background-color: red;
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
+  -webkit-transition: -webkit-transform 0.5s ease;
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease; }
+
+.asidemenu.--active {
+  -webkit-transform: translateX(0);
+          transform: translateX(0); }
