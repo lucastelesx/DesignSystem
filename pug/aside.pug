@@ -1,8 +1,20 @@
-- var a = ['a','b','c','d'];
-- var test = {link1:{ nomeC: 'lucas', data: '20191109', hash: 'hashblabla'}};
-nav
+nav.asidemenu.--active
   ul
-    - var nLinks = 4;
-    - for (var i = 0; i < nLinks; i++)
-      li
-        a(href=`${test.link1.nomeC}`)
+    li
+      i(class="fas fa-home")
+      a(href="#!") home
+    li
+      i(class="fas fa-shoe-prints")
+      a(href="#!") getting started
+    li
+      i(class="fas fa-object-group")
+      a(href="#!") components
+    li
+      i(class="fas fa-handshake")
+      a(href="#!") helpers
+    li
+      i(class="fas fa-sliders-h")
+      a(href="#!") variables
+    li
+      i(class="fas fa-info-circle")
+      a(href="#!") about
