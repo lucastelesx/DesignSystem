@@ -25,7 +25,7 @@ function scss() {
   return src(paths.styleSrcMain.src,{
     sourcemaps: true
   })
-  .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
+  .pipe(sass({outputStyle: 'nested'}).on('error', sass.logError))
   .pipe(autoprefixer())
   .pipe(gulp.dest(paths.styleSrcMain.dest));
 }
