@@ -16,7 +16,7 @@ var paths = {
 };
 
 function html() {
-  return src('pug/*.pug')
+  return src('pug/**/*.pug')
     .pipe(pug({pretty: true}))
     .pipe(dest('./'))
 }
@@ -33,7 +33,7 @@ function scss() {
 exports.default = function(){
   watch(
     [
-      'pug/*.pug', paths.styleSrcMain.src, paths.watchMain.globSrc
+      'pug/**/*.pug', paths.watchMain.globSrc
     ],{ events: 'all' },
     parallel(html, scss)
     )
