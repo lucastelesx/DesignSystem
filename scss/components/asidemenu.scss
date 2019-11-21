@@ -1,0 +1,17 @@
+.asidemenu{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  min-width: 80px;
+  width: 60vw;
+  max-width: 500px;
+  background-color: red;
+  transform:translateX(-100%);
+  transition: transform 0.5s ease;
+}
+
+
+.asidemenu.--active{
+  transform: translateX(0);
+}
