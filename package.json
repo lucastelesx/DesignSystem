@@ -4,15 +4,22 @@
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.7",
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "postcss-css-variables": "^0.14.0",
+    "postcss-modules": "^1.5.0",
+    "postcss-uncss": "^0.17.0",
+    "sass": "^1.25.0",
+    "uncss": "^0.17.3"
   },
   "dependencies": {
+    "cssnano": "^4.1.10",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-pug": "^4.0.1",
     "gulp-sass": "^4.0.2"

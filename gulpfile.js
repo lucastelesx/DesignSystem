@@ -6,35 +6,33 @@ const
   sass =         require('gulp-sass');
   
 var paths = {
-  styleSrcMain: {
-    src: 'scss/main/main.scss',
-    dest: 'css'
+  styleMain: {
+    src: `./src/scss/main/main.scss`,
+    dest: './src/css'
   },
   watchMain:{
-    globSrc:'scss/**/*.scss'
+    global:'./src/scss/**/*.scss'
   }
 };
 
 function html() {
-  return src('pug/**/*.pug')
+  return src('./src/index.pug')
     .pipe(pug({pretty: true}))
-    .pipe(dest('./'))
+    .pipe(dest('./src'))
 }
 
 function scss() {
-  return src(paths.styleSrcMain.src,{
+  return src(paths.styleMain.src,{
     sourcemaps: true
   })
   .pipe(sass({outputStyle: 'nested'}).on('error', sass.logError))
   .pipe(autoprefixer())
-  .pipe(gulp.dest(paths.styleSrcMain.dest));
+  .pipe(gulp.dest(paths.styleMain.dest));
 }
 
 exports.default = function(){
   watch(
-    [
-      'pug/**/*.pug', paths.watchMain.globSrc
-    ],{ events: 'all' },
-    parallel(html, scss)
+    [paths.watchMain.global],{ events: 'all' },
+    parallel(scss)
     )
 }
