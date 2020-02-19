@@ -1,0 +1,12 @@
+@import 'color';
+@import 'color-shades';
+@import 'font';
+:root{
+  --c-primary:   #ff4600;
+  color: #ffffff00;
+  --c-secundary: #5f23a8;
+}
+
+$media-sm: "(min-width: 768px)";
+$media-md: "(min-width: 992px)";
+$media-lg: "(min-width: 1200px)";

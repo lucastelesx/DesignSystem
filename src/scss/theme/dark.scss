@@ -1,0 +1,8 @@
+:root{
+  --bg-dark:var(--grey-900);
+}
+.theme-dark{
+  &.bg{
+    background-color: var(--bg-dark);
+  }
+}

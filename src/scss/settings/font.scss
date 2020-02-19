@@ -1,0 +1,17 @@
+:root{
+  --ff-title: 'PT Sans', sans-serif;
+  --ff-text:'PT Mono', monospace;
+  --fz-base:62.5%;
+  --fz-default:1.6rem; 
+  font-size:var(--fz-base);
+}
+
+body{
+  font-family: var(--ff-text);
+  font-size: var(--fz-default);
+}
+.heading{
+  >.title{
+    font-family: var(--ff-title);
+  }
+}
