@@ -13,7 +13,7 @@
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "postcss-css-variables": "^0.14.0",
-    "postcss-modules": "^1.5.0",
+    "postcss-modules": "^6.0.0",
     "postcss-uncss": "^0.17.0",
     "sass": "^1.25.0",
     "uncss": "^0.17.3"
